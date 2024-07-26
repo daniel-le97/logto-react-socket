@@ -44,3 +44,4 @@ ssc build -r
 
 This project uses code from the [logto-io/js] repo, which is licensed under the MIT License.
 You can find the original project at [https://github.com/logto-io/js].
+( specifically https://github.com/logto-io/js/tree/master/packages/react-sample)
