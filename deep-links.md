@@ -15,7 +15,7 @@ For private-use URI scheme-based redirects, authorization servers
 
 
 ## findings
-  1. if the application_protocol is set to a reverse DNS notation url like com.auth-react, this will work on safari and in the command line, but does not work in chrome ( when inputting it into the address bar)
+  1. if the application_protocol is set to a reverse DNS notation url like com.auth-react, this will work on safari and in the command line, but does not work in chrome ( as such my default browser is safari for this until i can figure it out)
 
 ## implementing
 
