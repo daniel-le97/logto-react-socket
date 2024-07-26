@@ -39,3 +39,8 @@ ssc build -r
 
 
 ## for more info check [deep linking](./deep-links.md)
+
+## Acknowledgements
+
+This project uses code from the [logto-io/js] repo, which is licensed under the MIT License.
+You can find the original project at [https://github.com/logto-io/js].
